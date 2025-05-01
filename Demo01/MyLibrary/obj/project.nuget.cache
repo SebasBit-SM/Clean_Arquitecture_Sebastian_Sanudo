@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "Nwia3AoDVLmo4kb5SHgJiTdIc0rlh9yigx485J501ZtzewB9gjfYNAqnFNTjlWuqIbcRBxizEuCSUo6prASK2g==",
+  "dgSpecHash": "UDoslyxgtLA=",
   "success": true,
-  "projectFilePath": "C:\\arquitectura_z\\Demo01\\MyLibrary\\MyLibrary.csproj",
+  "projectFilePath": "D:\\Académico\\S6\\ARQUITECTURA DE SOFTWARE\\CLEAN ARCHITECTURE\\Demo01\\MyLibrary\\MyLibrary.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\zemog\\.nuget\\packages\\figgle\\0.5.1\\figgle.0.5.1.nupkg.sha512"
+    "C:\\Users\\USER\\.nuget\\packages\\figgle\\0.5.1\\figgle.0.5.1.nupkg.sha512"
   ],
   "logs": []
 }
